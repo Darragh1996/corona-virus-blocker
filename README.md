@@ -6,8 +6,8 @@ flash through a range of rainbow colors forever.
 
 ## How to use
 
-copy this repo to your computer
-go to chrome://extensions and enable Developer mode
-Click 'Load unpacked' and choose the folder containing this repo you just downloaded
-Enable the extension
-All mentions of 'Coronavirus' should now flash with rainbow colors
+*copy this repo to your computer
+*go to chrome://extensions and enable Developer mode
+*Click 'Load unpacked' and choose the folder containing this repo you just downloaded
+*Enable the extension
+\*All mentions of 'Coronavirus' should now flash with rainbow colors
