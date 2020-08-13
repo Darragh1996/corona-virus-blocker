@@ -7,8 +7,8 @@ function replaceText(element) {
     if (element.textContent.match(/coronavirus/gi)) {
       const newElement = document.createElement("span");
       newElement.innerHTML = element.textContent.replace(
-        /coronavirus/gi,
-        '<span style="background-color: black; color: black;">$1</span>'
+        /(coronavirus)/gi,
+        '<span class="rainbow">$1</span>'
       );
       element.replaceWith(newElement);
     }
